@@ -19,13 +19,6 @@
 	# Range: 1 ~ 20
 	defaultTickDelay = 10
 
-#Blight forest biome (Terrablender). Set to 0 to disable.
-[blight_forest]
-	#Region weight for blight forest. Use 1 for ~25%% when Ars Nouveau archwood forest weight is 3.
-	# Default: 1
-	# Range: > 0
-	weight = 1
-
 #Filial item settings
 [filial]
 	#Spell power bonus granted per filial (held offhand or embedded in staff).
