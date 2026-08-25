@@ -273,7 +273,7 @@
 				"type": "item",
 				"id": "aether:holystone_hoe",
 				"amount": 1,
-				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:silk_touch\":1,\"apothic_enchanting:natures_blessing\":1}}}"
+				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"apothic_enchanting:natures_blessing\":1,\"minecraft:silk_touch\":1}}}"
 			},
 			"id": "minecraft:farmer_tier_1_selling_enchanted_holystone_hoe"
 		},
@@ -1655,7 +1655,7 @@
 				"type": "item",
 				"id": "occultism:butcher_knife",
 				"amount": 1,
-				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:sharpness\":1,\"minecraft:looting\":1}}}"
+				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:looting\":1,\"minecraft:sharpness\":1}}}"
 			},
 			"id": "minecraft:butcher_tier_5_selling_enchanted_butcher_knife"
 		},
@@ -2700,7 +2700,7 @@
 				"type": "item",
 				"id": "aether:holy_sword",
 				"amount": 1,
-				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:unbreaking\":2,\"ars_elemental:soulbound\":1,\"apothic_enchanting:knowledge_of_the_ages\":1,\"minecraft:smite\":3}}}"
+				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:smite\":3,\"minecraft:unbreaking\":2,\"apothic_enchanting:knowledge_of_the_ages\":1,\"ars_elemental:soulbound\":1}}}"
 			},
 			"id": "minecraft:weaponsmith_tier_5_selling_enchanted_holy_sword"
 		},
@@ -2724,7 +2724,7 @@
 				"type": "item",
 				"id": "aether:valkyrie_lance",
 				"amount": 1,
-				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:sharpness\":3,\"ars_elemental:soulbound\":1,\"minecraft:unbreaking\":2}}}"
+				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:unbreaking\":2,\"ars_elemental:soulbound\":1,\"minecraft:sharpness\":3}}}"
 			},
 			"id": "minecraft:weaponsmith_tier_5_selling_enchanted_valkyrie_lance"
 		},
@@ -3627,7 +3627,7 @@
 				"type": "item",
 				"id": "minecraft:leather_helmet",
 				"amount": 1,
-				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:mending\":1,\"minecraft:aqua_affinity\":1,\"minecraft:protection\":1}}}"
+				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:aqua_affinity\":1,\"minecraft:protection\":1,\"minecraft:mending\":1}}}"
 			},
 			"id": "minecraft:leatherworker_tier_1_selling_enchanted_leather_helmet"
 		},
@@ -3721,7 +3721,7 @@
 				"type": "item",
 				"id": "minecraft:leather_leggings",
 				"amount": 1,
-				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:swift_sneak\":1,\"minecraft:blast_protection\":1,\"ars_nouveau:mana_boost\":1}}}"
+				"nbt": "{\"minecraft:enchantments\":{\"levels\":{\"minecraft:swift_sneak\":1,\"ars_nouveau:mana_boost\":1,\"minecraft:blast_protection\":1}}}"
 			},
 			"id": "minecraft:leatherworker_tier_3_selling_enchanted_leather_leggings"
 		},

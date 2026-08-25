@@ -902,6 +902,7 @@ ServerEvents.recipes((event) => {
         { id: 'modern_industrialization:vanilla_recipes/mixer/endstone' },
         { id: 'modern_industrialization:vanilla_recipes/macerator/sand' },
         { id: 'modern_industrialization:vanilla_recipes/macerator/sandstone_to_sand' },
+        { id: 'modern_industrialization:vanilla_recipes/macerator/gilded_blackstone' },
         { id: `modern_industrialization:oil/mixer/lubricant_from_plant_oil` },
         { id: `modern_industrialization:oil/vacuum_freezer/styrene_butadiene_rubber` },
         { id: `modern_industrialization:oil/mixer/sugar_solution` },
@@ -1026,6 +1027,7 @@ ServerEvents.recipes((event) => {
         { id: 'naturesaura:potion_generator' },
         { id: 'naturesaura:animal_generator' },
         { id: 'naturesaura:generator_limit_remover' },
+        { id: 'naturesaura:mover_cart' },
 
         // Occultism
         { type: 'occultism:miner' },

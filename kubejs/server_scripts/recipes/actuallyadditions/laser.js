@@ -84,8 +84,8 @@ ServerEvents.recipes((event) => {
             set: [
                 'arts_and_crafts:soapstone',
                 'arts_and_crafts:gypsum',
-                'create:limestone',
-                'supplementaries:brittlestone'
+                'create:limestone'
+                // 'supplementaries:brittlestone'
             ]
         },
         {

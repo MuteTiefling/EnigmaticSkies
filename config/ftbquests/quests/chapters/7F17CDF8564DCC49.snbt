@@ -2,12 +2,13 @@
 	autofocus_id: "529329FE6CB3D29E"
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
-	filename: "7F17CDF8564DCC49"
+	filename: "7f17cdf8564dcc49"
 	group: "440488E780593120"
 	icon: {
 		id: "malum:wicked_spirit"
 	}
 	id: "7F17CDF8564DCC49"
+	images: [ ]
 	order_index: 7
 	quest_links: [ ]
 	quests: [
