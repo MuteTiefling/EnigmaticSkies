@@ -1,3 +1,21 @@
+### Enigmatic Skies 1.15.0
+
+NeoForge-1.21.1-21.1.248
+
+#### ⭐ Improvements
+
+- Improve Heat Exchanger quest [(\#309)](https://github.com/EnigmaticaModpacks/EnigmaticSkies/issues/309)
+- Decrease cost of Aura Carts [(\#309)](https://github.com/EnigmaticaModpacks/EnigmaticSkies/issues/309)
+- End Game quests have been shuffled a bit to make finding them more obvious [(\#309)](https://github.com/EnigmaticaModpacks/EnigmaticSkies/issues/309)
+
+#### 🦟 Bugs Fixed
+
+#### ✔️ Added Mods
+
+#### ❌ Removed Mods
+
+---
+
 ### Enigmatic Skies 1.14.0
 
 NeoForge-1.21.1-21.1.235 | [Mod Updates](https://github.com/EnigmaticaModpacks/EnigmaticSkies/blob/main/changelogs/changelog_mods_1.14.0.md) | [Modlist](https://github.com/EnigmaticaModpacks/EnigmaticSkies/blob/main/changelogs/modlist_1.14.0.md)
