@@ -1036,13 +1036,13 @@
     "curseForgeHash": 243616433,
     "modrinthHash": "9922fa358983120edeed22194bf02bcf9c859fbb"
   },
-  "ftb-quests-neoforge-2101.1.33.jar": {
-    "jarName": "ftb-quests-neoforge-2101.1.33.jar",
+  "ftb-quests-neoforge-2101.1.34.jar": {
+    "jarName": "ftb-quests-neoforge-2101.1.34.jar",
     "modId": "ftbquests",
     "name": "FTB Quests",
-    "version": "2101.1.33",
-    "curseForgeHash": 3843142229,
-    "modrinthHash": "e1a30e1c75f7d02d5cb5b6ffd76fff373730cad4"
+    "version": "2101.1.34",
+    "curseForgeHash": 1569292562,
+    "modrinthHash": "9c6a9adc77601cc8c07a3e058bd8cc42df0afe84"
   },
   "ftb-ranks-neoforge-2101.1.4.jar": {
     "jarName": "ftb-ranks-neoforge-2101.1.4.jar",
@@ -1052,13 +1052,13 @@
     "curseForgeHash": 679159155,
     "modrinthHash": "949fb102ee3c696e5baa097bd4d8fb6943e404c8"
   },
-  "ftb-team-bases-21.1.17.jar": {
-    "jarName": "ftb-team-bases-21.1.17.jar",
+  "ftb-team-bases-21.1.18.jar": {
+    "jarName": "ftb-team-bases-21.1.18.jar",
     "modId": "ftbteambases",
     "name": "FTB Team Bases",
-    "version": "21.1.17",
-    "curseForgeHash": 2581075043,
-    "modrinthHash": "86c9d1ce6e9900cfb7ddde363f0bea590460fc89"
+    "version": "21.1.18",
+    "curseForgeHash": 3718164230,
+    "modrinthHash": "783448c32f3debf686bb8ea1db738510f8623518"
   },
   "ftb-teams-neoforge-2101.1.11.jar": {
     "jarName": "ftb-teams-neoforge-2101.1.11.jar",
