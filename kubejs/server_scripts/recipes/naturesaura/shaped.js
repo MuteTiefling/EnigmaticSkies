@@ -212,6 +212,16 @@ ServerEvents.recipes((event) => {
                 D: 'naturesaura:ancient_stick'
             },
             id: `${id_prefix}light_staff`
+        },
+        {
+            output: 'naturesaura:mover_cart',
+            pattern: [' A ', 'ABA', ' C '],
+            key: {
+                A: 'naturesaura:infused_brick',
+                B: '#c:ingots/infused_iron',
+                C: 'minecraft:minecart'
+            },
+            id: `${id_prefix}mover_cart`
         }
     ];
 

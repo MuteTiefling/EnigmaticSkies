@@ -374,6 +374,11 @@
 					item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:advanced_fluid_output_hatch)item(modern_industrialization:bronze_fluid_output_hatch)item(modern_industrialization:fire_clay_brick_fluid_output_hatch)item(modern_industrialization:highly_advanced_fluid_output_hatch)item(modern_industrialization:steel_fluid_output_hatch)item(modern_industrialization:turbo_fluid_output_hatch))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
+				{
+					id: "04710997D4F97121"
+					item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:hv_energy_input_hatch)item(modern_industrialization:ev_energy_input_hatch)item(modern_industrialization:superconductor_energy_input_hatch))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
 			]
 			x: 1.5d
 			y: 4.0d

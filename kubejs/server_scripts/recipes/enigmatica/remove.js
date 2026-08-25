@@ -1027,6 +1027,7 @@ ServerEvents.recipes((event) => {
         { id: 'naturesaura:potion_generator' },
         { id: 'naturesaura:animal_generator' },
         { id: 'naturesaura:generator_limit_remover' },
+        { id: 'naturesaura:mover_cart' },
 
         // Occultism
         { type: 'occultism:miner' },

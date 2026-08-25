@@ -93,13 +93,13 @@
     "curseForgeHash": 1987996700,
     "modrinthHash": "f9a58fa95780f4b045d30559c1fdaedaa7f0fba3"
   },
-  "amendments-neoforge-1.21-2.1.7.jar": {
-    "jarName": "amendments-neoforge-1.21-2.1.7.jar",
+  "amendments-1.21-2.1.8-neoforge.jar": {
+    "jarName": "amendments-1.21-2.1.8-neoforge.jar",
     "modId": "amendments",
     "name": "Amendments",
-    "version": "1.21-2.1.7",
-    "curseForgeHash": 3422409052,
-    "modrinthHash": "69b9a6243a1513f7e40780367c40d23a4d687439"
+    "version": "1.21-2.1.8",
+    "curseForgeHash": 3605525553,
+    "modrinthHash": "6ac2840cc53354911a53860c096ed0f6cd77e259"
   },
   "animalhatmod-1.1.1-neoforge-1.21.1.jar": {
     "jarName": "animalhatmod-1.1.1-neoforge-1.21.1.jar",
@@ -1060,13 +1060,13 @@
     "curseForgeHash": 2581075043,
     "modrinthHash": "86c9d1ce6e9900cfb7ddde363f0bea590460fc89"
   },
-  "ftb-teams-neoforge-2101.1.10.jar": {
-    "jarName": "ftb-teams-neoforge-2101.1.10.jar",
+  "ftb-teams-neoforge-2101.1.11.jar": {
+    "jarName": "ftb-teams-neoforge-2101.1.11.jar",
     "modId": "ftbteams",
     "name": "FTB Teams",
-    "version": "2101.1.10",
-    "curseForgeHash": 3463802119,
-    "modrinthHash": "363376ae0fb22cb0527170fdf6a066d1da9b0225"
+    "version": "2101.1.11",
+    "curseForgeHash": 3675749658,
+    "modrinthHash": "62b65f752d0326edd13244e58d5f2aec035da4e9"
   },
   "ftb-xmod-compat-neoforge-21.1.11.jar": {
     "jarName": "ftb-xmod-compat-neoforge-21.1.11.jar",
@@ -1084,13 +1084,13 @@
     "curseForgeHash": 394814837,
     "modrinthHash": "f5978bb49b71e94d7063502c0fad0202ebbefbcc"
   },
-  "fusion-1.3.14-neoforge-mc1.21.1.jar": {
-    "jarName": "fusion-1.3.14-neoforge-mc1.21.1.jar",
+  "fusion-1.3.14a-neoforge-mc1.21.1.jar": {
+    "jarName": "fusion-1.3.14a-neoforge-mc1.21.1.jar",
     "modId": "fusion",
     "name": "Fusion",
-    "version": "1.3.14",
-    "curseForgeHash": 2056326315,
-    "modrinthHash": "705c2eff89cc1ab7199709ec1f4291cff7928fe3"
+    "version": "1.3.14+a",
+    "curseForgeHash": 1286030291,
+    "modrinthHash": "dc94e22df06f01ec63d2312a4f6a0b4b4a140769"
   },
   "fzzy_config-0.7.6+1.21+neoforge.jar": {
     "jarName": "fzzy_config-0.7.6+1.21+neoforge.jar",
@@ -2017,13 +2017,13 @@
     "curseForgeHash": 3863282065,
     "modrinthHash": "e77709df2499085d6576584b883a33285b2996b9"
   },
-  "supplementaries-1.21.1-3.9.1-neoforge.jar": {
-    "jarName": "supplementaries-1.21.1-3.9.1-neoforge.jar",
+  "supplementaries-1.21.1-3.9.3-neoforge.jar": {
+    "jarName": "supplementaries-1.21.1-3.9.3-neoforge.jar",
     "modId": "supplementaries",
     "name": "Supplementaries",
-    "version": "1.21.1-3.9.1",
-    "curseForgeHash": 1820690734,
-    "modrinthHash": "d7684ee80a2760380e4561802dd452737b2693ce"
+    "version": "1.21.1-3.9.3",
+    "curseForgeHash": 580187129,
+    "modrinthHash": "958d8546314a5febad4540221ebbe8d5d2eeb5eb"
   },
   "sushigocrafting-1.21-0.6.5.jar": {
     "jarName": "sushigocrafting-1.21-0.6.5.jar",
