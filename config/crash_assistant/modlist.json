@@ -596,13 +596,13 @@
     "curseForgeHash": 1306717928,
     "modrinthHash": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
   },
-  "corpse-neoforge-1.21.1-1.1.21.jar": {
-    "jarName": "corpse-neoforge-1.21.1-1.1.21.jar",
+  "corpse-neoforge-1.21.1-1.1.22.jar": {
+    "jarName": "corpse-neoforge-1.21.1-1.1.22.jar",
     "modId": "corpse",
     "name": "Corpse",
-    "version": "1.21.1-1.1.21",
-    "curseForgeHash": 2831473709,
-    "modrinthHash": "124791f94c501c2c12a132f4cc69a3a738498b9d"
+    "version": "1.21.1-1.1.22",
+    "curseForgeHash": 2298573,
+    "modrinthHash": "0d73e082e4d5c0f185aa8030bcefb68c259d1107"
   },
   "corpsecurioscompat-1.21.1-NeoForge-4.2.0.jar": {
     "jarName": "corpsecurioscompat-1.21.1-NeoForge-4.2.0.jar",
@@ -2126,13 +2126,13 @@
     "curseForgeHash": 3339880117,
     "modrinthHash": "b25faa4331f7f3e9f1fa133aa96f1e0a9a14ba52"
   },
-  "trashcans-1.1.1-neoforge-mc1.21.jar": {
-    "jarName": "trashcans-1.1.1-neoforge-mc1.21.jar",
+  "trashcans-1.1.2-neoforge-mc1.21.jar": {
+    "jarName": "trashcans-1.1.2-neoforge-mc1.21.jar",
     "modId": "trashcans",
     "name": "Trash Cans",
-    "version": "1.1.1",
-    "curseForgeHash": 368358018,
-    "modrinthHash": "79120eb32cdeb66348a1bceff3972dc2c00b22b5"
+    "version": "1.1.2",
+    "curseForgeHash": 3151842881,
+    "modrinthHash": "f165900a2a9de539da47ea0609a5c303e4625679"
   },
   "trashslot-neoforge-1.21.1-21.1.11.jar": {
     "jarName": "trashslot-neoforge-1.21.1-21.1.11.jar",
