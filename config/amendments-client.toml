@@ -4,8 +4,6 @@
 	texture_pack_support = false
 	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
 	dynamic_assets_generation_mode = "CACHED"
-	#Disables the chat warning shown when Enhanced Block Entities is installed
-	no_enhanced_block_entities_warn = false
 
 [lily_pad]
 	#set to 0 tho have lilypads at the same exact position as vanilla.negative numbers will place them in their own blockspace right below avoiding any clipping.best of both worlds at default as its barely within its space
@@ -60,7 +58,7 @@
 	lantern_item_holding = true
 	#Makes lantern holding animation have the arm angled more upwards. Looks better if you have dynamic lights on
 	lantern_item_holding_up = false
-	#Renders the swaying wall lantern through the item renderer so its shading comes from the model's normals instead of the block model's baked per-face shading. This makes the lantern shade correctly no matter which wall it faces, at the cost of losing block ambient occlusion. Only affects the animated (close-up) renderer
+	#Shades swinging wall lanterns like an item instead of like a block. Makes them look the same on every wall, but loses ambient occlusion
 	entity_shading = true
 
 	[lantern.swing_physics]
@@ -103,6 +101,10 @@
 	torch_item_flame = false
 	#Gives the villager trade buttons the same look loom and stonecutter buttons have
 	villager_trade_buttons = true
+	#Makes the selected hotbar slot slide to its new position. Higher is faster, 0 for vanilla behavior
+	# Default: 2.5
+	# Range: 0.0 ~ 5.0
+	hotbar_slot_animation_speed = 2.5
 
 [sign]
 	#Gives signs a pixel consistent model and texture. Also affects other mods. This also makes them use a Block Model, making them render much much much faster than as block entities
@@ -111,7 +113,7 @@
 	# Default: 1.2
 	# Range: 0.0 ~ 5.0
 	text_color_multiplier = 1.2
-	#A list of sign blocks that will NOT be affected by the pixel consistent sign setting. Use full registry names separated by commas
+	#A list of sign blocks that will NOT be affected by the pixel consistent sign setting
 	sign_blacklist = []
 
 [projectiles]
